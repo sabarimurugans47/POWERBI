@@ -47,7 +47,7 @@ This space is dedicated to building, exploring, and sharing interactive Power BI
   </svg>
 </div>
 
-I'm an aspiring Machine Learning Engineer with a growing passion for Data Visualization and Business Intelligence. This repository will capture my journey into data storytelling using Power BI — from simple charts to advanced dashboards that integrate with ML insights.
+I'm aiming for Machine Learning Engineer with a growing passion for Data Visualization and Business Intelligence. This repository will capture my journey into data storytelling using Power BI — from simple charts to advanced dashboards that integrate with ML insights.
 
 ---
 
